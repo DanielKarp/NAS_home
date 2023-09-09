@@ -1,0 +1,7 @@
+services:
+  nas_home:
+    build:
+      context: app
+    restart: always
+    ports:
+      - '80:8000'
