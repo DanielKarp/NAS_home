@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Jellyfin",
+        "url": "http://10.0.81.5:8096/web/index.html#!/home.html",
+        "description": "Media server. Organizes, displays, and plays media of all sorts"
+    },
+    {
+        "name": "Sonarr",
+        "url": "http://10.0.81.5:8989/",
+        "description": "TV Show collection tracker. Tracks releases and manages finding torrents, sending them to qBitTorrent, and hands the downloaded file to Jellyfin once complete"
+    },
+    {
+        "name": "Radarr",
+        "url": "http://10.0.81.5:7878/",
+        "description": "Movie collection tracker. Tracks releases and manages finding torrents, sending them to qBitTorrent, and hands the downloaded file to Jellyfin once complete"
+    },
+    {
+        "name": "Prowlarr",
+        "url": "http://10.0.81.5:9696/",
+        "description": "an indexer manager/proxy built on the popular arr .net/reactjs base stack to integrate with various PVR apps."
+    },
+    {
+        "name": "qBittorrent",
+        "url": "http://10.0.81.5:8080/",
+        "description": "Web interface for qBittorrent"
+    }
+]
