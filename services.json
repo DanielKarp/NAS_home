@@ -7,12 +7,12 @@
     {
         "name": "Sonarr",
         "url": "http://10.0.81.5:8989/",
-        "description": "TV Show collection tracker. Tracks releases and manages finding torrents, sending them to qBitTorrent, and hands the downloaded file to Jellyfin once complete"
+        "description": "TV Show collection tracker. Tracks releases and manages finding torrents, sends them to qBittorrent, and hands the downloaded file to Jellyfin once complete"
     },
     {
         "name": "Radarr",
         "url": "http://10.0.81.5:7878/",
-        "description": "Movie collection tracker. Tracks releases and manages finding torrents, sending them to qBitTorrent, and hands the downloaded file to Jellyfin once complete"
+        "description": "Movie collection tracker. Tracks releases and manages finding torrents, sends them to qBittorrent, and hands the downloaded file to Jellyfin once complete"
     },
     {
         "name": "Prowlarr",
