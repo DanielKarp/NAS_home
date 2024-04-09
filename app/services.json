@@ -15,6 +15,11 @@
         "description": "Movie collection tracker. Tracks releases and manages finding torrents, sends them to qBittorrent, and hands the downloaded file to Jellyfin once complete"
     },
     {
+        "name": "Readarr",
+        "url": "http://10.0.81.5:8787/",
+        "description": "Ebook and Audiobook collection tracker. Beta."
+    },
+    {
         "name": "Prowlarr",
         "url": "http://10.0.81.5:9696/",
         "description": "an indexer manager/proxy built on the popular arr .net/reactjs base stack to integrate with various PVR apps."
