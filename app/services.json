@@ -28,5 +28,10 @@
         "name": "qBittorrent",
         "url": "http://10.0.81.5:8080/",
         "description": "Web interface for qBittorrent"
+    },
+    {
+        "name": "Portainer",
+        "url": "https://10.0.81.5:9443",
+        "description": "docker GUI. admin access only."
     }
 ]
